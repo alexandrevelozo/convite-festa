@@ -60,7 +60,7 @@ export const List = styled.div`
     color: #fff;
     width: 100%;
 
-    background-color: #b82525;
+    background-color: #d93f3f;
 
     border-radius: 12px;
 
