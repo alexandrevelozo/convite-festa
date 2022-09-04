@@ -37,8 +37,6 @@ export const Card = styled.div`
 export const Number = styled.span`
   font-family: 'Bungee Shade', cursive;
   font-size: 36px;
-  margin-bottom: -15px;
-
 `
 export const Text = styled.span`
   font-size: 18px;
